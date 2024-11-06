@@ -1,8 +1,8 @@
 ### Task: Programming a REST API
 
-**Objective:** Develop a REST API to solve a banking system problem, we should implement any database system, examples:
+**Objective:** Develop a REST API to solve a banking system problem, we should implement any database system, some **examples** are:
 
- - Manage user accounts
+ - Manage User Accounts
  - Manage  deposits, withdrawals and transfers.
  - Notification System for a payments solution
 
