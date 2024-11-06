@@ -19,7 +19,8 @@ The solution should include the following:
 2. **API Endpoints:** 
     - This should include http rest endpoints solving the problem described in the objective
     - At least 2 endpoints (1 GET & 1 Post), preferably a CRUD
-    - Follow  REST standards 
+    - Follow  REST standards
+    - Implement any form of authorization
 3.  **Validations:**
     - Include at least 1 validation per endpoint
 4.  **Responses:**
