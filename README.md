@@ -24,7 +24,7 @@ The solution should include the following:
     - Include at least 1 validation per endpoint
 4.  **Responses:**
     -  Include appropriate HTTP status codes (e.g., 200, 400, 404).
-    - Return success or error messages in JSON forma.
+    - Return success or error messages in JSON format.
   
 ----------
 
