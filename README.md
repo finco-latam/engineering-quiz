@@ -5,6 +5,8 @@
  - Manage User Accounts
  - Manage  deposits, withdrawals and transfers.
  - Notification System for a payments solution
+ - Credit score system
+ - Credit calculation system
 
 The solution should include the following:
 ----------
