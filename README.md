@@ -13,8 +13,8 @@ The solution should include the following:
 ### Part 1: Requirements
 
 1. **Technologies**:
-	 - Python
-	 - Flask, Django or Fast API or any stuff of your own
+	 - Ruby
+	 - Rails or Siantra or any stuff of your own
 	 - Free to use any libraries
 	 - Use a database or any file system to save information
 	 - Some level of unit testing
